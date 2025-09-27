@@ -11,10 +11,12 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
 
 ---
 
@@ -27,13 +29,11 @@
 
 ### About Me 💻
 
-I'm currently a **Computer Engineering student** passionate about technology and programming.  
-Currently diving deep into **Python**, with studies in **OOP**, **SQL**, and **Django**.
+I am a **Computer Engineering student** with a strong focus on **Java development** and the **Spring Boot ecosystem**, specializing in the creation of scalable and efficient back-end applications and APIs.  
 
- **Planning to explore automation and Machine Learning** — areas I plan to specialize in.
+I have practical experience with **relational databases (SQL)** and **non-relational databases (MongoDB)**, and I am continuously expanding my expertise to meet industry standards.  
 
- Also learning to build **GUI applications** using **Flet**.
+My future goals include advancing my knowledge in **Kubernetes**, **Docker**, **AWS**, **Kafka**, **RabbitMQ**, and other key technologies that enhance the skill set of a modern **Java developer**.  
 
- **Actively seeking an internship** or junior opportunity to apply my knowledge and grow professionally.
+Currently, I am working as a **Software Development Intern at Honda**, where I apply my knowledge in real-world projects and continue to grow as a developer.  
 
-Feel free to check out my repositories, I welcome feedback, suggestions, and collaboration opportunities. Let's connect and follow my learning journey! 
